@@ -1,0 +1,18 @@
+[
+    {
+        "link": "http:\/\/localhost\/woo-commerce\/post-type-cartflows_step-sitemap-1.xml",
+        "updated": "2026-02-23T06:54:46+00:00"
+    },
+    {
+        "link": "http:\/\/localhost\/woo-commerce\/post-type-page-sitemap-1.xml",
+        "updated": "2026-02-23T06:54:46+00:00"
+    },
+    {
+        "link": "http:\/\/localhost\/woo-commerce\/post-type-post-sitemap-1.xml",
+        "updated": "2026-02-23T06:54:46+00:00"
+    },
+    {
+        "link": "http:\/\/localhost\/woo-commerce\/taxonomy-type-category-sitemap-1.xml",
+        "updated": "2026-02-23T06:54:47+00:00"
+    }
+]
